@@ -1,6 +1,4 @@
-୨ Hi cuties, nice to meet you ୧
+୨ Welcome to my profile ୧
 
-- I'm Noctopia also called Nono :)
+- I am Noctopia, also known as Noémie 
 - French student, learning computer science
-- League of Legends & Fortnite player
-- Animals & nature lover, yes I'm vegan!
