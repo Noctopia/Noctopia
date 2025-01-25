@@ -75,5 +75,17 @@ Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils e
 
 ---
 
+## 🖥️ Outils de ligne de commande et terminal
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+</div>
+
+---
+
 ## ✨ Petit mot de fin  
 *Chaque projet est une nouvelle aventure à explorer !*
