@@ -32,6 +32,8 @@ Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils e
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![WampServer](https://img.shields.io/badge/WampServer-FF1F69?style=for-the-badge&logo=wampserver&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 </div>
 
@@ -56,6 +58,7 @@ Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils e
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -82,6 +85,34 @@ Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils e
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+</div>
+
+---
+
+## 🔍 Aperçu GitHub & Statistiques
+
+<div align="center">
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noctopia&show_icons=true&theme=radical&hide=issues)
+
+---
+
+### 🧠 Langages les plus utilisés  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noctopia&layout=compact&theme=radical)
+
+---
+
+### 🔥 GitHub Streak  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Noctopia&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+### 💼 Dev Card Daily.dev  
+<a href="https://app.daily.dev/Noctopia">
+  <img src="https://api.daily.dev/devcards/2771c08f440144fab38e76b51c2589b5.png?r=hun" width="400" alt="Noémie's Dev Card"/>
+</a>
 
 </div>
 
