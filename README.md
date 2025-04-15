@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/Noctopia"><img src="https://api.daily.dev/devcards/2771c08f440144fab38e76b51c2589b5.png?r=hun" width="400" alt="Noémie's Dev Card"/></a>
+
 # 🌟 Mon Portfolio de Développeuse 🌟
 
 Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils et technologies que j'utilise régulièrement. 🚀
@@ -32,12 +34,13 @@ Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils e
 ![WampServer](https://img.shields.io/badge/WampServer-FF1F69?style=for-the-badge&logo=wampserver&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 </div>
 
 ---
 
-## 📂 Bases de données
+## 📂 Bases de données & Outils
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
@@ -45,12 +48,14 @@ Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils e
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=black)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ IDEs et outils graphiques
+## 🎨 IDEs et outils graphiques
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
@@ -76,7 +81,18 @@ Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils e
 
 ---
 
-## 🖥️ Outils de ligne de commande et terminal
+## 🖥️ Systèmes d'exploitation
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+## 💻 Outils de ligne de commande
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
@@ -92,6 +108,15 @@ Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils e
 
 <div align="center">
 
+---
+
+### 🤓 Veille technologique
+<a href="https://app.daily.dev/Noctopia">
+  <img src="https://api.daily.dev/devcards/2771c08f440144fab38e76b51c2589b5.png?r=hun" width="400" alt="Noémie's Dev Card"/>
+</a>
+
+---
+
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noctopia&show_icons=true&theme=radical&hide=issues)
 
@@ -103,14 +128,7 @@ Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils e
 ---
 
 ### 🔥 GitHub Streak  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Noctopia&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
----
-
-### 🤓 Veille technologique 
-<a href="https://app.daily.dev/Noctopia">
-  <img src="https://api.daily.dev/devcards/2771c08f440144fab38e76b51c2589b5.png?r=hun" width="400" alt="Noémie's Dev Card"/>
-</a>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Noctopia&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
