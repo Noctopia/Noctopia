@@ -125,27 +125,10 @@ Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils e
 
 <div align="center">
 
----
-
 ### 🤓 Veille technologique
 <a href="https://app.daily.dev/Noctopia">
   <img src="https://api.daily.dev/devcards/2771c08f440144fab38e76b51c2589b5.png?r=hun" width="400" alt="Noémie's Dev Card"/>
 </a>
-
----
-
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noctopia&show_icons=true&theme=radical&hide=issues)
-
----
-
-### 🧠 Langages les plus utilisés  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noctopia&layout=compact&theme=radical)
-
----
-
-### 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Noctopia&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
