@@ -1,6 +1,6 @@
 # 🌟 Mon Portfolio de Développeuse 🌟
 
-Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils et technologies que j'utilise régulièrement / j'ai déjà utilisé.
+Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils et technologies que j'utilise régulièrement / j'ai déjà utilisés.
 
 ---
 
