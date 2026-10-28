@@ -1,6 +1,21 @@
 # 🌟 Mon Portfolio de Développeuse 🌟
 
-Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils et technologies que j'utilise régulièrement. 🚀
+Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils et technologies que j'utilise régulièrement / j'ai déjà utilisé.
+
+---
+
+## 🚀 DevOps, Cloud Native & CI/CD
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Harbor](https://img.shields.io/badge/Harbor-60B5CC?style=for-the-badge&logo=harbor&logoColor=white)
+
+</div>
 
 ---
 
@@ -32,7 +47,6 @@ Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils e
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![WampServer](https://img.shields.io/badge/WampServer-FF1F69?style=for-the-badge&logo=wampserver&logoColor=white)
 
 </div>
@@ -62,6 +76,7 @@ Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils e
 ![H2 Database](https://img.shields.io/badge/H2-006699?style=for-the-badge&logo=h2&logoColor=white)
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=arangodb&logoColor=black)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
@@ -78,7 +93,6 @@ Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils e
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![NuGet](https://img.shields.io/badge/NuGet-4F1D1B?style=for-the-badge&logo=nuget&logoColor=white)
 ![pip](https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=pypi&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Volta](https://img.shields.io/badge/Volta-1A2A6C?style=for-the-badge&logo=volta&logoColor=white)
 ![apt](https://img.shields.io/badge/apt-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
 
@@ -124,11 +138,10 @@ Bienvenue dans mon espace GitHub ! Voici les langages de programmation, outils e
 
 ---
 
-## 🔍 Aperçu GitHub & Statistiques
+## 🔍 Veille technologique
 
 <div align="center">
 
-### 🤓 Veille technologique
 <a href="https://app.daily.dev/Noctopia">
   <img src="https://api.daily.dev/devcards/2771c08f440144fab38e76b51c2589b5.png?r=hun" width="400" alt="Noémie's Dev Card"/>
 </a>
